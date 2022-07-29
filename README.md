@@ -1,2 +1,2 @@
 # microsoft-graph-send-mail
-Sample script for sending emails with multiple attachments using Microsoft Graph API and Python
+Sample Python Azure Function for sending emails with multiple attachments using Microsoft Graph API and Python
